@@ -1,0 +1,14 @@
++--[ED25519 256]--+
+|        o.oo++OBo|
+|         @ +.B+++|
+|        B * = .E+|
+|       o * = .o B|
+|      . S o * ..o|
+|           + =   |
+|          . o .  |
+|             .   |
+|                 |
++----[SHA256]-----+
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKIpCuum4wildb+uzo2/fx1fJIRic793NaeChajm6zEF alex_saltykov06@mail.ru
